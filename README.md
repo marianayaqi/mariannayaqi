@@ -14,6 +14,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  <br>
+  <a href="https://github.com/mariantune"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mariantune&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+  
 <br>
 <br>
  
