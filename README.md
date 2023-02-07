@@ -3,10 +3,12 @@
 
 - 🔭 I’m currently working on people management
 - 🌱 I’m currently learning HTML5/ CSS and JavaScript 
-
-
 - 📫 How to reach me: https://www.linkedin.com/in/marianayaqi/
 - 😄 Pronouns: ela/dela
+
+ <div style="display: inline_block">
+  <img align="right" src="https://user-images.githubusercontent.com/123278537/217351290-187b3b40-c895-4e2e-9d36-6c3853a3f0e8.jpg" width="300"px/>
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +20,8 @@
   <a href="https://github.com/mariantune"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mariantune&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
   
 <br>
+
+
 <br>
  
 <div> 
