@@ -7,7 +7,10 @@
 - 😄 Pronouns: ela/dela
 
  <div style="display: inline_block">
-  <img align="right" src="https://user-images.githubusercontent.com/123278537/217351290-187b3b40-c895-4e2e-9d36-6c3853a3f0e8.jpg" width="300"px/>
+  <img align="right" src="https://user-images.githubusercontent.com/123278537/217969926-41ad8ca8-98a6-4610-93a7-64c13bb579ed.png" width="200"px/>
+
+
+
   </div>
 
 <div style="display: inline_block"><br>
