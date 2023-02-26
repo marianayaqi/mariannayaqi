@@ -1,15 +1,21 @@
-# Hi, I'm Mariana Antunes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mariana+Antunes;I'm+31+years+old;I'm+from+Brazil;I+Graduated+Advertising+and+marketing;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <br>
 
 - 🔭 I’m currently working on people management
 - 🌱 I’m currently learning HTML5/ CSS and JavaScript 
 - 📫 How to reach me: https://www.linkedin.com/in/marianayaqi/
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Ela/Dela
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianayaqi&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Antunes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianayaqi&layout=compact&hide_border=true&title_color=9370DB&text_color=9370DB&bg_color=0d1117" />
+</div>
 
  <div style="display: inline_block">
   <img align="right" src="https://user-images.githubusercontent.com/123278537/217969926-41ad8ca8-98a6-4610-93a7-64c13bb579ed.png" width="200"px/>
-
-
 
   </div>
 
@@ -20,9 +26,6 @@
 </div>
   
   <br>
-  <a href="https://github.com/mariantune"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mariantune&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
-  
-<br>
 
 
 <br>
